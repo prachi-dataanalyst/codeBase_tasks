@@ -21,7 +21,7 @@ The projects demonstrate the complete data science workflow, including:
 
 <p align="center">
   <a href="project_overview.png">
-    <img src="project_overview.png" alt="Project Overview" width="800" height="700">
+    <img src="project_overview.png" alt="Project Overview" width="750" height="800">
   </a>
 </p>
 
